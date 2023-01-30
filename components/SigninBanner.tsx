@@ -1,5 +1,6 @@
 import React from "react";
-import { signIn } from "next-auth/react";
+import { signIn,SignInOptions } from "next-auth/react";
+import SignUp from "./SignUp";
 
 type Props = {};
 
@@ -57,7 +58,8 @@ function SigninBanner({}: Props) {
               name="email"
               placeholder="Email address"
             />
-            <button className="flex self-center w-32 md:w-52 items-center bg-red-600 hover:bg-[#e50914] pl-4 md:pl-7 h-10 md:h-14 xl:h-16 m-2 md:m-0 md:text-2xl rounded">
+            <button className="flex self-center w-32 md:w-52 items-center bg-red-600 hover:bg-[#e50914] pl-4 md:pl-7 h-10 md:h-14 xl:h-16 m-2 md:m-0 md:text-2xl rounded"
+  >
               Get Started
               <img
                 className="w-4 md:w-7 pt-1 text-white"

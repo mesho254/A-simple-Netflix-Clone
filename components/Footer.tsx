@@ -51,7 +51,7 @@ function Footer({}: Props) {
           </li>
           <li className="my-1 md:mr-4 hover:underline cursor-pointer text-xs font-medium">
             {" "}
-            <a href="https://www.linkedin.com/in/naveen-polasa/">
+            <a href="https://www.linkedin.com/in/meshak-otieno/">
               Contact Us
             </a>{" "}
           </li>
@@ -71,7 +71,7 @@ function Footer({}: Props) {
         </button>
         <p className="my-4 text-xs font-medium">Netflix</p>
         <p className="my-4 text-xs font-medium">
-          sashenjayathilaka95@gmail.com
+          meshakokelo@gmail.com
         </p>
       </div>
 

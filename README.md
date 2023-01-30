@@ -17,16 +17,6 @@ NETFLIX 2.0 with NEXT.JS!(Next.js, NextAuth.js v4, Tailwind CSS, framer-motion, 
 ![](https://img.shields.io/github/issues/SashenJayathilaka/NETFLIX-Clone)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/NETFLIX-Clone)
 
-<h4>
-    <a href="https://netflix-sclone.netlify.app">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/issues">Request Feature</a>
-  </h4>
-</div>
 
 <br />
 
@@ -54,10 +44,9 @@ NETFLIX 2.0 with NEXT.JS!(Next.js, NextAuth.js v4, Tailwind CSS, framer-motion, 
 ### :camera: Screenshots
 
 <div align="center">
-<a href="https://netflix-sclone.netlify.app" target="_blank"><img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/></a>
+<img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/>
 </div>
 
-## <a href="https://netflix-sclone.netlify.app" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
@@ -210,8 +199,6 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
-
 <!-- Run Locally -->
 
 ### :running: Run Locally
@@ -270,7 +257,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Your Name - [@twitter_handle](https://twitter.com/di_meshak) - meshakokelo@gmail.com
 
 Project Link: [https://github.com/SashenJayathilaka/NETFLIX-Clone.git](https://github.com/SashenJayathilaka/NETFLIX-Clone.git)
 
